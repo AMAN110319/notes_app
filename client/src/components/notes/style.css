@@ -34,7 +34,7 @@
     max-width:1920px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content:center;
     margin: auto;
 }
 .card{
